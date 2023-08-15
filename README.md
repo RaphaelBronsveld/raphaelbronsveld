@@ -5,8 +5,6 @@
 - 💼 I'm currently working on several E-Commerce projects.
 - 🎯 Goals
   - Dive even deeper into the Core Web Vitals and web performance overall.
-  - Try out Webassembly.
-  - Try out Svelte/SvelteKit
   - Start contributing (at all..)
 - 🎮 I also play videogames.
 
