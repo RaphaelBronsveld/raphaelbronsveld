@@ -39,7 +39,7 @@
   <img align="left" src="https://img.shields.io/badge/Vue-1c1c1c?&style=flat-square&logo=Vue.js" />
   <img align="left" src="https://img.shields.io/badge/Nuxt-1c1c1c?&style=flat-square&logo=Nuxt.js" />
   <img align="left" src="https://img.shields.io/badge/Remix-1c1c1c?&style=flat-square&logo=Remix" />
-  <img align="left" src="https://img.shields.io/badge/NextJS-1c1c1c?&style=flat-square&logo=Next.js" />
+  <img align="left" src="https://img.shields.io/badge/Node-1c1c1c?&style=flat-square&logo=Node.js" />
   <img align="left" src="https://img.shields.io/badge/Tailwindcss-1c1c1c?&style=flat-square&logo=Tailwindcss" />
 </p>
   
