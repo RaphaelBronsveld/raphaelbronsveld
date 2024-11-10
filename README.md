@@ -2,17 +2,14 @@
 
 <h3>I'm a Tech Lead and a technical consultant.</h3>
 
-- 💼 I'm currently working on several E-Commerce projects.
-- 🎯 Goals
-  - Dive even deeper into the Core Web Vitals and web performance overall.
-  - Start contributing (at all..)
-- 🎮 I also play videogames.
+- 💼 I'm currently working on several custom made applications and E-commerce projects.
+- 🎮 I play videogames!
+- 🎧 I like all things music related & discovering new music as well.
 
 #### Connect with me
 
 <a href="https://www.linkedin.com/in/raphaelbronsveld/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<a href="https://www.instagram.com/raphaelbronsveld/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://twitter.com/raphaelbronsvld"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="https://bsky.app/profile/raphaelbronsveld.com"><img align="left" src="https://img.shields.io/badge/Bluesky-0285FF?&style=for-the-badge&logo=Bluesky&logoColor=white" /></a>
 
 <br/><br/>
 
